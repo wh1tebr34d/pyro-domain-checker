@@ -1,5 +1,12 @@
-# pyro-domain-checker
-A lightweight CLI tool that rotates TLDs for a given host and classifies live, parked, placeholder, and dead domains.
+<p align="center">
+  <img src="assets/PYRO.ico" width="160">
+</p>
+
+<h1 align="center">Pyro Domain Checker</h1>
+
+<p align="center">
+  A lightweight CLI tool that rotates TLDs for a given host and filters parked, placeholder, and dead domains.
+</p>
 
 ## Screenshots
 
