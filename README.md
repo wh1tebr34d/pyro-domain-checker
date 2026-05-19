@@ -2,15 +2,15 @@
 A lightweight CLI tool that rotates TLDs for a given host and classifies live, parked, placeholder, and dead domains.
 
 ## Screenshots
-Screenshot 2026-05-18 203611.png
-### Main Scan
 
-![Pyro scan running](Screenshot 2026-05-18 203611.png)
+### Pyro Scan
 
-### Results
+![Pyro scan](Screenshot%202026-05-18%20203611.png)
 
-![Pyro results output](screenshots/pyro-results.png)
+### Pyro Results
 
-### Output Files
+![Pyro results](Screenshot%202026-05-18%20203633.png)
 
-![Generated files](screenshots/pyro-files.png)
+### Pyro Output Files
+
+![Pyro output files](Screenshot%202026-05-18%20203640.png)
