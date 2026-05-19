@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/PYRO.ico" width="160">
+  <img src="assets/PYROGithub.png" width="160">
 </p>
 
 <h1 align="center">Pyro Domain Checker</h1>
