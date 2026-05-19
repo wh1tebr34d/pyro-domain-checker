@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/PYROGithub.png" width="160">
+  <img src="PYROGithub.png" width="850">
 </p>
 
 <h1 align="center">Pyro Domain Checker</h1>
 
 <p align="center">
-  A lightweight CLI tool that rotates TLDs for a given host and filters parked, placeholder, and dead domains.
+  TLD rotation • parked-page filtering • content scoring
 </p>
 
 ## Screenshots
