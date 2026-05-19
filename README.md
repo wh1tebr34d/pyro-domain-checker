@@ -8,6 +8,10 @@
   TLD rotation • parked-page filtering • content scoring
 </p>
 
+
+![Python](https://img.shields.io/badge/python-3.11-blue)
+
+
 ## Screenshots
 
 ### Pyro Scan
