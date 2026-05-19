@@ -1,0 +1,1 @@
+Just open it type the Host name in and hit enter it'll change the TDL of the URL and find any working URLs for that domain
